@@ -1,5 +1,4 @@
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Alok Kumar goldy)" title="👋 Hi there! I'm (Alok Kumar Goldy)
 
 <!--
 **alokgoldy/alokgoldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
