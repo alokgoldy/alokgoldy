@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🖥 𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐  𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙷𝚘𝚗𝚘𝚞𝚛𝚜  𝚊𝚝  Lovely Professional 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, 𝚊𝚗𝚍 𝙸'𝚕𝚕 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎 𝚒𝚗 𝙰𝚙𝚛𝚒𝚕 𝟸0𝟸2
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 here
-- 🌱 I am currently learning React Native.
+- 🌱 I am currently learning React Native 👍.
 
 ### 📫 Reach me at 
 <p><a href="https://github.com/alokgoldy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/alokgoldy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
