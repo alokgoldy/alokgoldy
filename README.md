@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 here
 - 🌱 I am currently learning React Native 👍.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokgoldy&hide=TeX&layout=compact)
+
 ### 📫 Reach me at 
   <a href="https://www.linkedin.com/in/alokgoldy/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
