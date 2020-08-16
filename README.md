@@ -1,7 +1,7 @@
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <!--
-**alokgoldy/alokgoldy** ac is as ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alokgoldy/alokgoldy** ac is as ✨ _special_ ✨a repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
