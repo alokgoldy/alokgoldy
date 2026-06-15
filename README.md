@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # 👋 Hi, I'm Alok
@@ -26,7 +25,7 @@ const alok = {
   goals: ["Build Products", "Open Source", "Continuous Growth"],
   funFact: "Turning coffee ☕ into clean UI ✨"
 };
-````
+```
 
 ---
 
@@ -71,7 +70,7 @@ const alok = {
 * ⚛️ Building scalable React applications
 * 📱 Learning React Native
 * 🎨 Creating beautiful user experiences
-* 🚀 Looking for frontend opportunities
+* 🚀 Looking for exciting frontend opportunities
 * 📚 Improving DSA & System Design
 
 ---
@@ -92,9 +91,8 @@ const alok = {
 
 <div align="center">
 
-### ⭐ Great products are built with clean code and great user experiences.
+### ⭐ "Great products are built with clean code and great user experiences."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alokgoldy\&style=for-the-badge)
 
 </div>
-```
