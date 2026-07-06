@@ -94,16 +94,23 @@ const alok = {
 
 ---
 
-# 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alokgoldy&show_icons=true&theme=vue-dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=alokgoldy&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokgoldy&layout=compact&theme=vue-dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokgoldy&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=alokgoldy&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 ---
 
 # 🔥 GitHub Streak
