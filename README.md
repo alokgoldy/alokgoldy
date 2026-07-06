@@ -1,98 +1,136 @@
+````markdown
 <div align="center">
 
-# 👋 Hi, I'm Alok
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=F8BBD0&text=Hi%20👋,%20I'm%20Alok&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 
-### Frontend Developer | React.js | React Native | Node.js
+# 🌸 Frontend Developer • React.js • React Native • Node.js
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+React+Native+Developer;Building+Modern+Web+Experiences;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend+Developer+💖;React.js+%7C+React+Native;Building+Beautiful+User+Experiences;Clean+Code+✨;Always+Learning+🌸" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=alokgoldy&theme=algolia&no-frame=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=alokgoldy&theme=dracula&no-frame=true&row=1&margin-w=12"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🌷 About Me
 
 ```javascript
 const alok = {
-  role: "Frontend Developer",
-  location: "Jaipur, India",
-  tech: ["React.js", "React Native", "JavaScript", "Node.js"],
-  currentlyLearning: ["React Native", "System Design"],
-  goals: ["Build Products", "Open Source", "Continuous Growth"],
-  funFact: "Turning coffee ☕ into clean UI ✨"
+  role: "Frontend Developer 💻",
+  location: "Jaipur, India 🇮🇳",
+  experience: "React.js & Node.js",
+  currentlyLearning: [
+    "React Native 📱",
+    "System Design ⚙️"
+  ],
+  hobbies: [
+    "Building UI ✨",
+    "Coffee ☕",
+    "Open Source 💖"
+  ],
+  lifeGoal: "Create products people love 🌸"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 💖 Tech Stack
 
-### Frontend
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge\&logo=css3)
-![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge\&logo=redux)
+### 🎀 Frontend
 
-### Backend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,redux,typescript" />
 
-![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge\&logo=express)
+### 🌸 Backend
 
-### Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge\&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge\&logo=visualstudiocode)
+### 💻 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alokgoldy&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokgoldy&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alokgoldy&show_icons=true&theme=rose_pine&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokgoldy&layout=compact&theme=rose_pine&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokgoldy&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alokgoldy&theme=rose-pine&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🌼 Current Focus
 
-* ⚛️ Building scalable React applications
-* 📱 Learning React Native
-* 🎨 Creating beautiful user experiences
-* 🚀 Looking for exciting frontend opportunities
-* 📚 Improving DSA & System Design
+🌸 Building scalable React applications
+
+💖 Learning React Native
+
+✨ Writing clean and maintainable code
+
+🚀 Preparing for Senior Frontend interviews
+
+📚 DSA + System Design
+
+🎯 Building amazing user experiences
 
 ---
 
-## 🌐 Connect With Me
+# 💗 What I Love
+
+```text
+🌸 Beautiful UI
+💖 Performance Optimization
+✨ Clean Code
+🎀 Reusable Components
+☕ Coffee
+🎵 Lo-fi Music
+```
+
+---
+
+# 🌺 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alokgoldy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
 
-  <a href="https://instagram.com/alokgoldy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
-  </a>
+<a href="https://www.linkedin.com/in/alokgoldy/">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/alokgoldy">
+<img src="https://img.shields.io/badge/Instagram-F48FB1?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ "Great products are built with clean code and great user experiences."
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alokgoldy&theme=rose_pine"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=alokgoldy\&style=for-the-badge)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=alokgoldy&style=for-the-badge&color=ff69b4"/>
+
+### 🌷 *"Building beautiful experiences, one component at a time."*
+
+💖 Thanks for visiting my profile!
 
 </div>
+````
