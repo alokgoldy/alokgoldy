@@ -1,16 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFB6C1,50:F8C8DC,100:CDB4DB&text=Hi%20👋,%20I'm%20Alok&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:11998E,50:38EF7D,100:A8E063&text=Hi%20👋,%20I'm%20Alok&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-# 🌸 Frontend Developer • React.js • React Native • Node.js
+# 🌿 Frontend Developer | React.js | React Native | Node.js
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;React+Native+Learner;Building+Beautiful+User+Experiences;Always+Learning+Something+New+✨"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;React+Native+Learner;Building+Modern+Web+Experiences;Clean+Code+%F0%9F%8C%B1"/>
+
+<img src="https://komarev.com/ghpvc/?username=alokgoldy&style=for-the-badge&color=2E8B57"/>
 
 </div>
 
 ---
 
-# 🌷 About Me
+# 🌱 About Me
 
 <table>
 <tr>
@@ -20,6 +22,7 @@
 ```javascript
 const alok = {
   role: "Frontend Engineer 💻",
+
   location: "Jaipur, India 🇮🇳",
 
   frontend: [
@@ -34,26 +37,31 @@ const alok = {
     "Express"
   ],
 
+  database: [
+    "MongoDB",
+    "Supabase"
+  ],
+
   currentlyLearning: [
     "React Native",
     "System Design"
   ],
 
   hobbies: [
-    "Building UI ✨",
-    "Coffee ☕",
-    "Open Source 💖"
+    "UI Design",
+    "Open Source",
+    "Coffee ☕"
   ],
 
-  lifeGoal: "Build products people love 🌸"
-};
+  motto: "Keep Learning 🌿"
+}
 ```
 
 </td>
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=alokgoldy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alokgoldy&show_icons=true&theme=vue-dark&hide_border=true"/>
 
 </td>
 
@@ -62,25 +70,25 @@ const alok = {
 
 ---
 
-# 💖 Tech Stack
+# 🌳 Tech Stack
 
 <div align="center">
 
-### 🎀 Frontend
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,redux" />
-
-<br/><br/>
-
-### 🌸 Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,redux"/>
 
 <br/><br/>
 
-### 💻 Tools
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase"/>
+
+<br/><br/>
+
+### ☁️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 
 </div>
 
@@ -90,9 +98,9 @@ const alok = {
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alokgoldy&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alokgoldy&show_icons=true&theme=vue-dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokgoldy&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokgoldy&layout=compact&theme=vue-dark&hide_border=true"/>
 
 </p>
 
@@ -102,7 +110,7 @@ const alok = {
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=alokgoldy&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=alokgoldy&theme=vue-dark&hide_border=true"/>
 
 </p>
 
@@ -112,7 +120,7 @@ const alok = {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokgoldy&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokgoldy&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -122,61 +130,61 @@ const alok = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alokgoldy&theme=dracula&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alokgoldy&theme=algolia&row=1&column=7&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Working On
+# 🌿 Current Focus
 
-🌸 Building scalable React applications
+🌱 Building scalable React applications
 
-💖 Learning React Native
+📱 Learning React Native
+
+🚀 Improving System Design
 
 ⚡ Performance Optimization
 
-🎨 Beautiful UI & UX
+💚 Open Source Contributions
 
-📚 DSA + System Design
-
-🚀 Open Source Contributions
+📚 DSA Practice
 
 ---
 
-# 🌸 Fun Facts
-
-```text
-☕ Coffee Lover
-
-🎵 Lo-fi Music
-
-💖 Clean Code
-
-🚀 Performance Matters
-
-🌸 UI Enthusiast
-```
-
----
-
-# 🌐 Connect With Me
+# 🌎 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/alokgoldy">
-<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/alokgoldy">
-<img src="https://img.shields.io/badge/Instagram-F48FB1?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-4CAF50?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-E1BEE7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-66BB6A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
+---
+
+# 🌱 Fun Facts
+
+```text
+🌿 Nature Lover
+
+☕ Coffee Addict
+
+🎧 Lo-fi Music
+
+💻 Clean Code
+
+🚀 Building Products
+```
 
 ---
 
@@ -192,12 +200,8 @@ const alok = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=alokgoldy&style=for-the-badge&color=ff69b4"/>
+### 🌳 "Code. Learn. Grow."
 
-<br/><br/>
-
-### 🌸 *"Building beautiful experiences, one component at a time."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:CDB4DB,50:F8C8DC,100:FFB6C1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:A8E063,50:38EF7D,100:11998E"/>
 
 </div>
