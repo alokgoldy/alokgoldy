@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=F8BBD0&text=Hi%20👋,%20I'm%20Alok&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
@@ -133,4 +133,4 @@ const alok = {
 💖 Thanks for visiting my profile!
 
 </div>
-````
+
