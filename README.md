@@ -61,35 +61,6 @@ Building scalable, high-performance web applications with modern frontend techno
 
 ---
 
-# 💼 Professional Experience
-
-## Software Engineer — Hornblower Group
-
-- 🚀 Built production-grade multi-page checkout flow
-- 📈 Developed analytics dashboards for business insights
-- 💳 Integrated secure wallet payment solutions
-- ⚡ Optimized GraphQL APIs for better performance
-- ✈️ Developed operational scheduling dashboards
-
----
-
-## Previous Experience
-
-### Software Engineer — CAW Studios
-
-- Influencer Marketing Platform
-- Airtable-like Dynamic Table Builder
-- React Native Mobile Applications
-- AG-Grid Data Management
-
-### Software Engineer Intern
-
-- AI Hiring Platform
-- Resume Parsing Integration
-- Assessment Builder
-
----
-
 # 🚀 Featured Projects
 
 ## 🤖 AI Workflow Builder
