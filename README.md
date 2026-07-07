@@ -1,207 +1,184 @@
-<div align="center">
+# Hi there, I'm Alok 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:11998E,50:38EF7D,100:A8E063&text=Hi%20👋,%20I'm%20Alok&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+### Frontend Software Engineer | React.js | TypeScript | Next.js | JavaScript
 
-# 🌿 Frontend Developer | React.js | React Native | Node.js
+I'm a Frontend Software Engineer with **4+ years of experience** building scalable, performant, and user-centric web applications. I enjoy turning complex business requirements into intuitive user experiences while writing clean, maintainable, and reusable code.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;React+Native+Learner;Building+Modern+Web+Experiences;Clean+Code+%F0%9F%8C%B1"/>
-
-<img src="https://komarev.com/ghpvc/?username=alokgoldy&style=for-the-badge&color=2E8B57"/>
-
-</div>
+I have experience working across the complete frontend development lifecycle—from designing reusable component architectures to integrating REST & GraphQL APIs, optimizing performance, and collaborating with cross-functional teams.
 
 ---
 
-# 🌱 About Me
+## 🚀 About Me
 
-<table>
-<tr>
-
-<td width="55%">
-
-```javascript
-const alok = {
-  role: "Frontend Engineer 💻",
-
-  location: "Jaipur, India 🇮🇳",
-
-  frontend: [
-    "React.js",
-    "React Native",
-    "JavaScript",
-    "TypeScript"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express"
-  ],
-
-  database: [
-    "MongoDB",
-    "Supabase"
-  ],
-
-  currentlyLearning: [
-    "React Native",
-    "System Design"
-  ],
-
-  hobbies: [
-    "UI Design",
-    "Open Source",
-    "Coffee ☕"
-  ],
-
-  motto: "Keep Learning 🌿"
-}
-```
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=alokgoldy&show_icons=true&theme=vue-dark&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
+- 💼 Frontend Software Engineer with 4+ years of experience
+- ⚛️ Specializing in React.js, TypeScript, Next.js
+- 🎯 Passionate about building scalable and performant web applications
+- 📱 Experience developing responsive and accessible applications
+- 🤝 Love collaborating with designers, backend engineers, and product teams
+- 🌱 Currently exploring Node.js, Go, and System Design
 
 ---
 
-# 🌳 Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
+### Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- Redux Toolkit
+- Zustand
+- HTML5
+- CSS3
+- Tailwind CSS
+- Material UI
+- Bootstrap
 
-### 🎨 Frontend
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- GraphQL
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,redux"/>
+### State Management
+- Redux
+- Redux Toolkit
+- Context API
+- Zustand
+- RTK Query
 
-<br/><br/>
+### Tools & Technologies
+- Git & GitHub
+- Vite
+- Webpack
+- npm
+- Yarn
+- Postman
+- Cypress
+- Jest
+- ESLint
+- Prettier
 
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase"/>
-
-<br/><br/>
-
-### ☁️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
-
-</div>
+### Cloud & DevOps
+- AWS
+- GitHub Actions
+- CI/CD
 
 ---
 
-# 📊 GitHub Analytics
+## 💼 Experience
+
+### Software Engineer
+
+Developing modern web applications using React ecosystem while focusing on:
+
+- Building reusable UI components
+- Performance optimization
+- API integrations
+- Responsive design
+- Accessibility
+- Code quality
+- Unit & E2E testing
+- Cross-functional collaboration
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Workflow Builder
+
+A visual workflow builder that allows users to create AI-powered workflows using drag-and-drop nodes.
+
+**Tech Stack**
+
+- Next.js
+- React Flow
+- TypeScript
+- Zustand
+- RTK Query
+- Tailwind CSS
+- WebSocket
+- Server-Sent Events
+
+**Highlights**
+
+- Drag-and-drop workflow editor
+- Real-time execution monitoring
+- Streaming AI responses
+- Optimistic UI updates
+- Responsive dashboard
+- Modern animations
+
+---
+
+### 📊 Analytics Dashboard
+
+Interactive dashboard for monitoring business metrics with real-time visualizations.
+
+**Features**
+
+- Dynamic charts
+- Advanced filtering
+- API integrations
+- Responsive UI
+- High-performance rendering
+
+---
+
+### 🛒 Multi-step Checkout
+
+Production-ready checkout experience with secure payment integrations.
+
+**Highlights**
+
+- Multi-page checkout
+- Payment integrations
+- Order validation
+- Improved user experience
+- Performance optimization
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alokgoldy&show_icons=true&theme=vue-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokgoldy&layout=compact&theme=vue-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📫 Connect with Me
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alokgoldy&theme=vue-dark&hide_border=true"/>
-
-</p>
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 🌐 Portfolio: https://YOUR_PORTFOLIO
+- 📧 Email: YOUR_EMAIL
 
 ---
 
-# 📈 Contribution Graph
+## 💡 Currently Learning
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokgoldy&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alokgoldy&theme=algolia&row=1&column=7&no-frame=true"/>
-
-</p>
+- Go
+- Advanced Node.js
+- Microservices
+- System Design
+- Kubernetes
 
 ---
 
-# 🌿 Current Focus
+## ⚡ Fun Fact
 
-🌱 Building scalable React applications
-
-📱 Learning React Native
-
-🚀 Improving System Design
-
-⚡ Performance Optimization
-
-💚 Open Source Contributions
-
-📚 DSA Practice
+I enjoy solving frontend architecture challenges, improving application performance, and building beautiful user experiences.
 
 ---
 
-# 🌎 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/alokgoldy">
-<img src="https://img.shields.io/badge/LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/alokgoldy">
-<img src="https://img.shields.io/badge/Instagram-4CAF50?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-66BB6A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🌱 Fun Facts
-
-```text
-🌿 Nature Lover
-
-☕ Coffee Addict
-
-🎧 Lo-fi Music
-
-💻 Clean Code
-
-🚀 Building Products
-```
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/alokgoldy/alokgoldy/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-<div align="center">
-
-### 🌳 "Code. Learn. Grow."
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:A8E063,50:38EF7D,100:11998E"/>
-
-</div>
+⭐ If you like my work, consider giving a star to my repositories!
